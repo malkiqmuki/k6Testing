@@ -1,5 +1,10 @@
 # ⚡ k6 Testing Project
 
+![k6](https://img.shields.io/badge/tested%20with-k6-brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/malkiqmuki/k6Testing)
+![GitHub repo size](https://img.shields.io/github/repo-size/malkiqmuki/k6Testing)
+![Platform](https://img.shields.io/badge/platform-Node.js-yellow)
+
 ## 📖 Description
 This repository contains **performance and load tests** written with [k6](https://k6.io/).  
 The goal is to demonstrate how to:
